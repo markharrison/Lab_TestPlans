@@ -147,4 +147,4 @@ If we check in the User Story work item, we can see it has been updated with Dep
 ![](Images/TPStoryDeployment.png)
 
 ---
-[Home](readme.md) | [Prev](testplans-1.md) | [Next](testplans-3.md)
+[Home](README.md) | [Prev](testplans-1.md) | [Next](testplans-3.md)

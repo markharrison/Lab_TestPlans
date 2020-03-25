@@ -250,4 +250,4 @@ The Bug appears in the list of Work Items
 ![](Images/TPBug10.png)
 
 ---
-[Home](readme.md) | [Prev](testplans-2.md)
+[Home](README.md) | [Prev](testplans-2.md)

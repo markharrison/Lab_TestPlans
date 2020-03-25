@@ -116,4 +116,4 @@ Next we will create a User Story with two Tasks and two Test Cases.
 ![](Images/TPStorySprint2.png)
 
 ---
-[Home](readme.md) | [Next](testplans-2.md)
+[Home](README.md) | [Next](testplans-2.md)
