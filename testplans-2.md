@@ -138,13 +138,19 @@ Create a Pull Request to merge the code into the master branch
 
 ![](Images/TPPullRequest5.png)
 
-The Story branch has noe been merged with the master branch - and the Story branch is then deleted.
+The Story branch has now been merged with the master branch - and the Story branch is then deleted.
 
 The master branch being updated will kick off the Build and Release pipelines.
 
 If we check in the User Story work item, we can see it has been updated with Deployment information showing was deployed to Development
 
 ![](Images/TPStoryDeployment.png)
+
+## Summary
+
+In this section we made some development changes - and commited the work back to the Repos, and the application was deployed.
+
+In the next section we shall take on the persona of a tester, and validate that the development did what was required and meets the Test Cases.
 
 ---
 [Home](README.md) | [Prev](testplans-1.md) | [Next](testplans-3.md)

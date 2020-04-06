@@ -17,6 +17,12 @@ Mark Harrison : 26 March 2020
 Use Azure DevOps Projects <https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/microsoft.visualstudio%2Faccount%2Fproject>
 
 - Create a .NET project ... suggest use Windows AppService F1 free tier
+  - Choose `.NET` | [Next]
+  - Choose `ASP.NET Core` | [Next]
+  - Choose `Windows Wep App` | [Next]
+  - Enter details - webapp name must be unique, use local regions
+  - Use the [Additional Settings] - select F1 free tier
+  - [Done]
 
 ![](Images/TPCreate1.png)
 
@@ -114,6 +120,12 @@ Next we will create a User Story with two Tasks and two Test Cases.
 ![](Images/TPStorySprint1.png)
 
 ![](Images/TPStorySprint2.png)
+
+## Summary
+
+In this section we create our DevOps project and set up some work items.
+
+In the next section we shall take on the persona of a developer, and make some code changes that relate to the work items.
 
 ---
 [Home](README.md) | [Next](testplans-2.md)
